@@ -1,4 +1,4 @@
-var firstUrl = "https://www.dinnary.com/app/",
+var firstUrl = "https://www.tokosukoco.com/app/",
 	urlService = firstUrl + "services/apps.php",
 	urlContent = firstUrl + "contents/";
 
